@@ -1,0 +1,11 @@
+
+
+.row{
+  position: relative;
+  align-content: center;
+  justify-content: center;
+}
+.col-25{
+  justify-self: center;
+  align-items: center;
+}
